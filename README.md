@@ -1,4 +1,4 @@
-# GPS Enabled Robot (ESP32 + MIT App Inventor)
+# GPS Enabled Delivery Robot 
 
 This project implements a WiFi controlled robot using an ESP32 and a GPS module. A mobile application built using MIT App Inventor communicates with the ESP32 to send movement commands and retrieve GPS location data.
 
